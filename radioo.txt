@@ -32,4 +32,4 @@ Vanguard
 Sun
 Moon
 Earth
-Stars
+Star
